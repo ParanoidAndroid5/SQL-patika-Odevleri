@@ -20,4 +20,4 @@ select count(country) from country
 where country like '_____'
 --5
 select count(city) from city
-where city ilike '%R'
+where city ilike '%r'
